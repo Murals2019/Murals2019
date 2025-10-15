@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## This is for my AI class and my assignment
 <!--
 **Murals2019/Murals2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
